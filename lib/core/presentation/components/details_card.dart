@@ -3,10 +3,11 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:movies_app/core/domain/entities/media.dart';
 import 'package:movies_app/core/domain/entities/media_details.dart';
 import 'package:movies_app/core/presentation/components/slider_card_image.dart';
-import 'package:movies_app/watchlist/presentation/controllers/watchlist_bloc/watchlist_bloc.dart';
+// import 'package:movies_app/watchlist/presentation/controllers/watchlist_bloc/watchlist_bloc.dart';
 
 import 'package:movies_app/core/resources/app_colors.dart';
 import 'package:movies_app/core/resources/app_values.dart';
+import 'package:movies_app/features/presentation/watchlist/controllers/watchlist_bloc/watchlist_bloc.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class DetailsCard extends StatelessWidget {

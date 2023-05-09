@@ -6,7 +6,8 @@ import 'package:movies_app/core/resources/app_router.dart';
 import 'package:movies_app/core/services/service_locator.dart';
 import 'package:movies_app/core/resources/app_strings.dart';
 import 'package:movies_app/core/resources/app_theme.dart';
-import 'package:movies_app/watchlist/presentation/controllers/watchlist_bloc/watchlist_bloc.dart';
+import 'package:movies_app/features/presentation/watchlist/controllers/watchlist_bloc/watchlist_bloc.dart';
+// import 'package:movies_app/watchlist/presentation/controllers/watchlist_bloc/watchlist_bloc.dart';
 
 void main() async {
   await Hive.initFlutter();

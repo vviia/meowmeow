@@ -1,4 +1,6 @@
-import 'package:movies_app/tv_shows/domain/usecases/get_season_details_usecase.dart';
+// import 'package:movies_app/tv_shows/domain/usecases/get_season_details_usecase.dart';
+
+import 'package:movies_app/features/domain/tv_shows/usecases/get_season_details_usecase.dart';
 
 class ApiConstants {
   static const String apiKey = 'b6367c81e7d93e75c70771cf72f0c5ce';
