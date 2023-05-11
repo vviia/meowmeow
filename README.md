@@ -21,3 +21,6 @@ The app will use the API from themoviedb.org to fetch movie data. The API will b
 The app will have a clean and user-friendly interface, which will be implemented using the Material Design guidelines. The app will be tested using Flutter's testing framework to ensure that the app is reliable and bug-free.
 
 The development of the Flutter Movie App using BLoC and DDD architecture will provide a solid foundation for future app development projects, as it will incorporate best practices in software development, such as code separation, maintainability, and scalability.
+
+
+in developing
