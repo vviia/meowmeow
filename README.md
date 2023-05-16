@@ -22,12 +22,19 @@ The app will have a clean and user-friendly interface, which will be implemented
 
 The development of the Flutter Movie App using BLoC and DDD architecture will provide a solid foundation for future app development projects, as it will incorporate best practices in software development, such as code separation, maintainability, and scalability.
 
-![image](https://github.com/vviia/meowmeow/assets/86775678/3adee2ae-c5d6-410f-9c54-dcc246e0dc21)
-
-![image](https://github.com/vviia/meowmeow/assets/86775678/0de415ff-25f7-482d-9d88-de57ea07a605)
-
-![image](https://github.com/vviia/meowmeow/assets/86775678/a23a4c0c-a643-4296-b3dc-d71069423705)
-
-![image](https://github.com/vviia/meowmeow/assets/86775678/ede9f2a2-8d88-477b-b54f-cd06d24e8fc1)
-
 in developing
+
+Movies | Show | Search | Watch Lists
+:---: | :---: | :---: | :---:
+<img src="https://github.com/vviia/meowmeow/assets/86775678/3adee2ae-c5d6-410f-9c54-dcc246e0dc21" width=75% height=75% > |  <img src="https://github.com/vviia/meowmeow/assets/86775678/0de415ff-25f7-482d-9d88-de57ea07a605" width=75% height=75% > |  <img src="https://github.com/vviia/meowmeow/assets/86775678/a23a4c0c-a643-4296-b3dc-d71069423705" width=75% height=75% > |  <img src="https://github.com/vviia/meowmeow/assets/86775678/ede9f2a2-8d88-477b-b54f-cd06d24e8fc1" width=75% height=75% > 
+
+
+
+clone this repository using 
+```
+git clone git@github.com:vviia/meowmeow.git
+```
+run pub get 
+```
+flutter pub get
+```
